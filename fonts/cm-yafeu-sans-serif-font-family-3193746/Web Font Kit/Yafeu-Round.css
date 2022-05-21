@@ -1,0 +1,12 @@
+/* Webfont: Yafeu-Round */@font-face {
+    font-family: 'YafeuRound';
+    src: url('Yafeu-Round.eot'); /* IE9 Compat Modes */
+    src: url('Yafeu-Round.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Yafeu-Round.woff') format('woff'), /* Modern Browsers */
+         url('Yafeu-Round.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Yafeu-Round.svg#Yafeu-Round') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
